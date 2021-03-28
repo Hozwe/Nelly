@@ -12,8 +12,8 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 
 ## Features
 
-*   **Moderation**:  `ban`  `clear`  `kick`  `lock`  `slowmode`  `Unlock`
-*   **Help**:  `help`
+**Moderation**:  `ban`  `clear`  `kick`  `lock`  `slowmode`  `Unlock`
+**Help**:  `help`
 
 ## License
 Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
