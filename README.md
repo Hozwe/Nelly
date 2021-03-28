@@ -5,7 +5,7 @@ A fully customizable bot built with discord.js
   <a href="#about">About</a>
   •
   <a href="#Features">Features</a>
-  
+  •
   <a href="#license">License</a>
   •
   <a href="#credits">Credits</a>
