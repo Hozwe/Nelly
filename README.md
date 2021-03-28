@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-A fully customizable bot built with discord.js
+<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 <p align="center">
   <a href="#about">About</a>
