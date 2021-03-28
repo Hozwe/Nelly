@@ -1,21 +1,27 @@
 
  # Nelly
  
+ 
  <h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
  
 ## About
+
 
 Nelly is an open source, fully customizable Discord bot that is constantly growing.
 
 
 ## Features
 
+
 **Moderation**  
+
 
 `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
+
 **Help**
+
 
 `!help`
 
@@ -27,6 +33,7 @@ Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main
 
 
 ## Media
+
 
  [![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz)
 
