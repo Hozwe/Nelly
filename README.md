@@ -1,6 +1,6 @@
 # Nelly
 
-## Find us on
+## Social
  [![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz)
 [![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
 
