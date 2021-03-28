@@ -24,10 +24,10 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Eggl
 
 # Features 
 ## **Moderation**  
-## `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
+### `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
 ## **Help** 
-## `!help`
+### `!help`
 
 # License 
 
