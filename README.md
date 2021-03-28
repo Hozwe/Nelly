@@ -9,16 +9,9 @@
 #### Flexible command handling and creation.
 
   - Command aliases.
-  - Command throttling and cooldowns.
+  - Command cooldowns.
   - Client and user permission checks.
   - Multiple prefixes and mention prefixes.
-
-#### Blocking and monitoring messages with inhibitors.
-
-  - execute at various stages of command handling.
-    - On all messages.
-    - On messages that are from valid users.
-    - On messages before commands.
 
 #### Helpful events and modular listeners.
 
@@ -35,6 +28,11 @@ Requires Node 12+ and Discord.js v12.
 *fs*  
 `npm install fs`
 
+*moment (optional)*  
+`npm install moment`
+
+*chalk (optional)*  
+`npm install chalk`
 
 ## Links
 
