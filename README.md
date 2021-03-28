@@ -1,9 +1,7 @@
 <div align="center">
-  <p>
-    <h1>
-    Nelly
-    <h4>
-  <p>
+  <br/>
+  <h1>Nelly
+  <br/>
   </div>
   
 ## Features
