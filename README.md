@@ -32,6 +32,10 @@ Requires Node 12+ and Discord.js v12.
 *discord.js*  
 `npm install discord.js`
 
+*fs*  
+`npm install fs`
+
+
 ## Links
 
 - [YouTube](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw) 
