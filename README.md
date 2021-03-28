@@ -7,7 +7,7 @@
 <h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 <div align=center>
- [![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)(https://discord.gg/bun33kKgaF)
+[![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bun33kKgaF)
   
 <p align="center">
   <a href="#about">About</a>
