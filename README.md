@@ -34,10 +34,6 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 *   ❔  **Help**: `help`,
 *   🚓  **Moderation**: `ban`, `clear`, `kick`, `lock`, `slowmode`,`Unlock`, 
 
-Nelly also comes packed with a variety of features, such as:
-
-* **Extensive Logging** for 1 events.
-
 ## License
 Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
 
