@@ -1,5 +1,5 @@
 
-### Nelly 
+### Nelly a fully customizable Discord bot that is constantly growing. 
 ## About
 
 
