@@ -29,8 +29,6 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 
 ## Features
 
-**7** commands and counting across **2** different categories!
-
 *   **Moderation**:  `ban`  `clear`  `kick`  `lock`  `slowmode`  `Unlock`
 *   **Help**:  `help`
 
