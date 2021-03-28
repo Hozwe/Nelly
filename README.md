@@ -32,10 +32,6 @@ Requires Node 12+ and Discord.js v12.
 *discord.js*  
 `npm install discord.js`
 
-## License 
-
-Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
-
 ## Links
 
 - [YouTube](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw) 
