@@ -40,4 +40,3 @@ Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main
 
 - [YouTube](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw) 
 - [Discord](https://discord.gg/qrJU8amZFz)  
-- 
