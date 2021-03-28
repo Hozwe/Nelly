@@ -1,10 +1,10 @@
-<div align="center">
+<h1 align="center">
   <br />
   <p>
 #    Nelly
 <br />
 </p>
-</div>
+</h1>
 
 ## Features
 
