@@ -13,6 +13,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 ## Features
 
 **Moderation**  
+
 `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
 **Help**
