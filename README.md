@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <h4>
+    <h1>
     Nelly
     <br>
   <p>
