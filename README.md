@@ -1,7 +1,5 @@
 <div align="center">
-  <br/>
-  <h1>Nelly
-  <br/>
+  <h1 >Nelly
   </div>
   
 ## Features
