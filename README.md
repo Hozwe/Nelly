@@ -4,30 +4,40 @@
   <br>
 </h1>
 
-<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+## Features
 
+#### Flexible command handling and creation.
 
-<div align=center>
+  - Command aliases.
+  - Command throttling and cooldowns.
+  - Client and user permission checks.
+  - Multiple prefixes and mention prefixes.
 
+#### Blocking and monitoring messages with inhibitors.
 
-[![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz) [![YouTube](https://img.shields.io/badge/YouTube⠀-FF0000?style=flat&logo=youtube&logoColor)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
+  - execute at various stages of command handling.
+    - On all messages.
+    - On messages that are from valid users.
+    - On messages before commands.
 
-</div>
-</p>
+#### Helpful events and modular listeners.
 
+  - Events for handlers, such as loading modules.
+  - Events for various stages of command handling.
 
-# About
+## Installation
 
-**Nelly is an open source, fully customizable Discord bot that is constantly growing.**
+Requires Node 12+ and Discord.js v12.  
 
+*discord.js*  
+`npm install discord.js`
 
-# Features 
-### **Moderation**
-### `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
+## License 
 
-### **Help** 
-### `!help`
+Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
 
-# License 
+## Links
 
-**Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.**
+- [YouTube](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw) 
+- [Discord](https://discord.gg/qrJU8amZFz)  
+- 
