@@ -36,8 +36,22 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
 
 ## Installation
-**Node 12.0.0 or newer is required.**  
-`npm install `
+
+First of all, make sure you have downloaded:
+* [Node.js](https://nodejs.org/en/). (Version 12 or higher)
+
+Now, clone this repository by
+downloading or running the command `git clone https://github.com/Hozwe/Nelly.git`.
+
+Next run the following commands:
+```
+$ npm install
+```
+### Configuring the config file
+
+Find the file `src/config.js`, this is where all your information will go.
+
+This bot must be run on a Discord bot account. Do NOT try to run this on a normal user account. This is against the Discord [Terms of Service](https://discord.com/terms).
 
 ## Credits
 
