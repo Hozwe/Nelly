@@ -1,11 +1,10 @@
-<h1 align="center">
-<p>
-<br/>
-Nelly
-<br/>
-</p>
-</h1>
-
+<div align="center">
+  <br />
+  <p>
+    <a nelly/></a>
+  </p>
+  <br />
+  <p>
 ## Features
 
 #### Flexible command handling and creation.
