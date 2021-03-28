@@ -8,7 +8,7 @@
 
 <div align=center>
 
-[![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bun33kKgaF)
+[![Discord](https://discordapp.com/api/guilds/792957761494712360/widget.png?style=slogo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bun33kKgaF)
 
 </div>
   
