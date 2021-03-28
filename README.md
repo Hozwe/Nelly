@@ -20,7 +20,6 @@
 
 **Nelly is an open source, fully customizable Discord bot that is constantly growing.**
 
-**If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!**
 
 # Features 
 ### **Moderation**
