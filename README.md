@@ -14,8 +14,6 @@
 
 </div>
 
-<p align="center">
-
 </p>
 
 
