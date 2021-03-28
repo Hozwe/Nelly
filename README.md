@@ -1,11 +1,11 @@
-<h1 align="center">
+<div align="center">
   <p>
       <br />
   Nelly
       <br />
   </p>
   <p>
-  </h1>
+  </div>
   
 ## Features
 
