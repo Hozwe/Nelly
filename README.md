@@ -39,7 +39,7 @@ Nelly also comes packed with a variety of features, such as:
 * **Extensive Logging** for 1 events.
 
 ## License
-Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly)license.
+Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
 
 ## Credits
 
