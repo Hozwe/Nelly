@@ -35,6 +35,10 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Nell
 ## License
 Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
 
+## Installation
+**Node 12.0.0 or newer is required.**  
+`npm install `
+
 ## Credits
 
 * **Hozww#1069** 
