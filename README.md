@@ -16,20 +16,22 @@
 </p>
 
 
-## About
+# About
 
 Nelly is an open source, fully customizable Discord bot that is constantly growing.
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
 
-## Features 
+# Features 
 ## **Moderation**  
 ## `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
 ## **Help** 
 ## `!help`
 
-## License Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
+# License 
+
+Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
 
 ## Credit
 
