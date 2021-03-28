@@ -1,11 +1,4 @@
-<h1 align="center">
-  <br>
-  Nelly
-  <br>
-</h1>
-
-
-<div align=center>
+## Nelly
 
  [![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz)
 
