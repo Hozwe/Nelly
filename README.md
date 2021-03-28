@@ -23,10 +23,10 @@ Nelly is an open source, fully customizable Discord bot that is constantly growi
 If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
 
 # Features 
-## **Moderation**  
+### **Moderation**  
 ### `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
-## **Help** 
+### **Help** 
 ### `!help`
 
 # License 
