@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align=center> Meow! Meow! customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+<h3 align=center> customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 <div align=center>
 
