@@ -8,7 +8,7 @@
 
 <div align=center>
 
-[![Discord](flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG justifyCenter-3D2jYp alignStretch-DpGPf3 noWrap-3jynv6 activityCount-2GgGMq)](https://discord.gg/bun33kKgaF)
+[![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bun33kKgaF)
 
 </div>
   
