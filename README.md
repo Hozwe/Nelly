@@ -1,8 +1,3 @@
-# Nelly
-
-
- 
-</div>
 
 
 ## About
