@@ -8,10 +8,10 @@
 
 ## About
 
-**Nelly is an open source, fully customizable Discord bot that is constantly growing. Also, you can join the official Hozww's Community Support Server for all questions, suggestions, and assistance!**
+Nelly is an open source, fully customizable Discord bot that is constantly growing. Also, you can join the official Hozww's Community Support Server for all questions, suggestions, and assistance!
 
 
-**If you liked this repository, feel free to leave a star ⭐ to help promote Nelly!**
+If you liked this repository, feel free to leave a star ⭐ to help promote Nelly!
 
 
 ## Features
@@ -26,6 +26,7 @@
 
 
 ## License
+
 
 Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly/blob/main/LICENSE)license.
 
