@@ -1,9 +1,7 @@
 <h1 align="center">
-  <br />
   <p>
   Nelly
   </p>
-  <br />
   <p>
   </div>
   </h1>
