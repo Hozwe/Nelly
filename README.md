@@ -1,8 +1,10 @@
-<h1 align="center">
-  <br>
-  Nelly
-  <br>
-</h1>
+<div align="center">
+  <br />
+  <p>
+    Egglord
+<br />
+</p>
+</div>
 
 ## Features
 
