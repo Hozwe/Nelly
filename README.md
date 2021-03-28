@@ -25,7 +25,10 @@
   <a href="#credits">Credits</a>
 
 </p>
-
+⠀
+⠀
+⠀
+⠀
 ## About
 
 Nelly is an open source, fully customizable Discord bot that is constantly growing.
