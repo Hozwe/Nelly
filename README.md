@@ -32,4 +32,4 @@ Released under the [Apache License 2.0] (https://github.com/Hozwe/Nelly)license.
 
 ## Credits
 
-* **Hozww#1069** - *Translations*
+* **Hozww#1069** 
