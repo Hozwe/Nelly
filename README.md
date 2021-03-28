@@ -1,7 +1,8 @@
 # Nelly
 
+## Find us on
  [![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz)
-[![YouTube](https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-channel-badge.ngoldack.vercel.app%2Fapi%2Fsubscriber)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
+[![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
 
 </div>
 
