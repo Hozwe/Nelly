@@ -9,6 +9,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
 
 <div>
+  </p>
  
 ## About
 
