@@ -25,13 +25,9 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Eggl
 ## Features 
 ## **Moderation**  `!ban`  `!clear`  `!kick`  `lock`  `!slowmode`  `!unlock`
 
-**Help**
+## **Help** `!help`
 
-`!help`
-
-## License
-
-Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
+## License Released under the [Apache License 2.0](https://github.com/Hozwe/Nelly/blob/main/LICENSE) license.
 
 ## Credit
 
