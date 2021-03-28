@@ -31,7 +31,7 @@ Requires Node 12+ and Discord.js v12.
 
  discord.js
  ⠀⠀
-`npm install discord.js`
+⠀`npm install discord.js`
 
 ## License 
 
