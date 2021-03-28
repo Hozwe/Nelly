@@ -8,8 +8,9 @@
 
 ## About
 
-Nelly is an open source, fully customizable Discord bot that is constantly growing. You can join the official [Hozww's Community Server](https://discord.gg/qrJU8amZFz) for all questions, suggestions, and assistance!
+Nelly is an open source, fully customizable Discord bot that is constantly growing.
 
+For all questions, suggestions, and assistance join the official [Hozww's Community Server](https://discord.gg/qrJU8amZFz)
 
 ## Features
 
