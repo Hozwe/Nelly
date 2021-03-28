@@ -1,4 +1,9 @@
-# Nelly
+<h1 align="center">
+  <br>
+  Nelly
+  <br>
+</h1>
+
 A fully customizable bot built with discord.js
 
 <p align="center">
