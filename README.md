@@ -36,4 +36,4 @@ Hozww#1069
  [![Discord](https://img.shields.io/discord/792957761494712360.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qrJU8amZFz)
 
 
-[![YouTube](https://img.shields.io/badge/YouTube⠀⠀-FF0000?style=flat&logo=youtube&logoColor)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
+[![YouTube](https://img.shields.io/badge/YouTube⠀-FF0000?style=flat&logo=youtube&logoColor)](https://www.youtube.com/channel/UCoeP9FXbTZ6h-szYe12hFJw)
