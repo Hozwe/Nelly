@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a nelly/></a>
+    <a nelly
   </p>
   <br />
   <p>
